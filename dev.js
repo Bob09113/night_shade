@@ -1,3 +1,4 @@
+require('dotenv').config()
 const Discord = require('discord.js')
 const fs = require('fs')
 const bot = new Discord.Client({fetchAllMembers: true})
@@ -54,4 +55,4 @@ bot.on('message', async message => {
     }
 })
 
-bot.login(process.env.TOKEN)
+bot.login(process.env.DEV)

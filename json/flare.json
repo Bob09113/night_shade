@@ -1,0 +1,254 @@
+{
+    "MEMBERS": {
+        "title": "Team Flare Members",
+        "color": "#F5AC78",
+        "thumbnail": {"url": "https://cdn.bulbagarden.net/upload/thumb/archive/3/3f/20171117012609%21Flare_logo.png/107px-Flare_logo.png"},
+        "description": "**Grunt A**(A) - Hawlucha\n**Grunt B**(B) - Jolteon\n**Editor in Cheif Printer**(Printer) - Greninja\n**Elite 4 Malva**(Malva) - Delphox\n**Guest Alain**(Alain) - Dragalge\n**Essentia** - Malamar"
+    },
+
+    "GRUNTA": {
+        "title": "Team Flare Grunt A",
+        "color": "#F5AC78",
+        "fields": [
+            {
+                "name": "1. Houndour",
+                "value": "__**Affected By:**__\nFighting: 2, Ground: 2, Rock: 2, Water: 2\n__**Base Stats:**__\n**HP:** 45 | **ATK:** 60\n**DEF:** 30 | **SP:** 80\n**SDEF:** 50 | **SPD:** 65",
+                "inline": true
+            },
+            {
+                "name": "2. Tyrunt",
+                "value": "__**Affected By:**__\nFighting: 2, Ground: 2, Steel: 2, Ice: 2, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 58 | **ATK:** 89\n**DEF:** 77 | **SP:** 45\n**SDEF:** 45 | **SPD:** 48",
+                "inline": true
+            },
+            {
+                "name": "3. Swalot",
+                "value": "__**Affected By:**__\nGround: 2, Psychic: 2\n__**Base Stats:**__\n**HP:** 100 | **ATK:** 73\n**DEF:** 83 | **SP:** 73\n**SDEF:** 83 | **SPD:** 55",
+                "inline": true
+            },
+            {
+                "name": "4. Noibat",
+                "value": "__**Affected By:**__\nRock: 2, **Ice: 4**, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 40 | **ATK:** 30\n**DEF:** 35 | **SP:** 45\n**SDEF:** 40 | **SPD:** 55",
+                "inline": true
+            },
+            {
+                "name": "5. Spritzee",
+                "value": "__**Affected By:**__\nPoison: 2, Steel: 2\n__**Base Stats:**__\n**HP:** 78 | **ATK:** 52\n**DEF:** 60 | **SP:** 64\n**SDEF:** 65 | **SPD:** 23",
+                "inline": true
+            },
+            {
+                "name": "6. Hawlucha",
+                "value": "__**Affected By:**__\nFlying: 2, Electric: 2, Psychic: 2, Ice: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 78 | **ATK:** 92\n**DEF:** 75 | **SP:** 74\n**SDEF:** 63 | **SPD:** 118",
+                "inline": true
+            }
+        ],
+        "footer": {
+            "iconURL": "https://media.discordapp.net/attachments/791383690818355243/816227254999842816/Hawlucha.gif",
+            "text": "Devil Hawlucha"
+        }
+    },
+
+    "GRUNTB": {
+        "title": "Team Flare Grunt B",
+        "color": "#F5AC78",
+        "fields": [
+            {
+                "name": "1. Goomy",
+                "value": "__**Affected By:**__\nIce: 2, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 45 | **ATK:** 50\n**DEF:** 35 | **SP:** 55\n**SDEF:** 75 | **SPD:** 40",
+                "inline": true
+            },
+            {
+                "name": "2. Espurr",
+                "value": "__**Affected By:**__\nBug: 2, Ghost: 2, Dark: 2\n__**Base Stats:**__\n**HP:** 62 | **ATK:** 48\n**DEF:** 54 | **SP:** 63\n**SDEF:** 60 | **SPD:** 68",
+                "inline": true
+            },
+            {
+                "name": "3. Amoonguss",
+                "value": "__**Affected By:**__\nFlying: 2, Fire: 2, Psychic: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 114 | **ATK:** 85\n**DEF:** 70 | **SP:** 85\n**SDEF:** 80 | **SPD:** 30",
+                "inline": true
+            },
+            {
+                "name": "4. Liepard",
+                "value": "'__**Affected By:**__\nFighting: 2, Bug: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 64 | **ATK:** 88\n**DEF:** 50 | **SP:** 88\n**SDEF:** 50 | **SPD:** 106",
+                "inline": true
+            },
+            {
+                "name": "5. Drapion",
+                "value": "__**Affected By:**__\nGround: 2\n__**Base Stats:**__\n**HP:** 70 | **ATK:** 90\n**DEF:** 110 | **SP:** 60\n**SDEF:** 75 | **SPD:** 95",
+                "inline": true
+            },
+            {
+                "name": "6. Jolteon",
+                "value": "__**Affected By:**__\nGround: 2\n__**Base Stats:**__\n**HP:** 65 | **ATK:** 65\n**DEF:** 65 | **SP:** 110\n**SDEF:** 95 | **SPD:** 130",
+                "inline": true
+            }
+        ],
+        "footer": {
+            "iconURL": "https://media.discordapp.net/attachments/791383690818355243/816227206455885825/Jolteon.gif",
+            "text": "Devil Jolteon"
+        }
+    },
+
+    "PRINTER": {
+        "title": "Lumiose Press Editor in Chief Printer",
+        "color": "#F5AC78",
+        "fields": [
+            {
+                "name": "1. Spinda",
+                "value": "__**Affected By:**__\nGhost: 2\n__**Base Stats:**__\n**HP:** 60 | **ATK:** 60\n**DEF:** 60 | **SP:** 60\n**SDEF:** 60 | **SPD:** 60",
+                "inline": true
+            },
+            {
+                "name": "2. Spewpa",
+                "value": "__**Affected By:**__\nFlying: 2, Rock: 2, Fire: 2\n__**Base Stats:**__\n**HP:** 45 | **ATK:** 22\n**DEF:** 60 | **SP:** 27\n**SDEF:** 30 | **SPD:** 29",
+                "inline": true
+            },
+            {
+                "name": "3. Vivillon",
+                "value": "__**Affected By:**__\nFlying: 2, **Rock: 4**, Fire: 2, Electric: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 80 | **ATK:** 52\n**DEF:** 50 | **SP:** 90\n**SDEF:** 50 | **SPD:** 89",
+                "inline": true
+            },
+            {
+                "name": "4. Helioptile",
+                "value": "__**Affected By:**__\nFighting: 2, Ground: 2\n__**Base Stats:**__\n**HP:** 44 | **ATK:** 38\n**DEF:** 33 | **SP:** 61\n**SDEF:** 43 | **SPD:** 70",
+                "inline": true
+            },
+            {
+                "name": "5. Pangoro",
+                "value": "__**Affected By:**__\nFighting: 2, Flying: 2, **Fairy: 4**\n__**Base Stats:**__\n**HP:** 95 | **ATK:** 124\n**DEF:** 78 | **SP:** 69\n**SDEF:** 71 | **SPD:** 58",
+                "inline": true
+            },
+            {
+                "name": "6. Greninja",
+                "value": "__**Affected By:**__\nFighting: 2, Bug: 2, Grass: 2, Electric: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 72 | **ATK:** 95\n**DEF:** 67 | **SP:** 103\n**SDEF:** 71 | **SPD:** 122",
+                "inline": true
+            }
+        ],
+        "footer": {
+            "iconURL": "https://media.discordapp.net/attachments/791383690818355243/816227270095667200/Greninja.gif",
+            "text": "Devil Greninja"
+        }
+    },
+
+    "MALVA": {
+        "title": "Elite Four Malva",
+        "color": "#F5AC78",
+        "fields": [
+            {
+                "name": "1. Chandelure",
+                "value": "__**Affected By:**__\nGround: 2, Rock: 2, Ghost: 2, Water: 2, Dark: 2\n__**Base Stats:**__\n**HP:** 60 | **ATK:** 55\n**DEF:** 90 | **SP:** 145\n**SDEF:** 90 | **SPD:** 80",
+                "inline": true
+            },
+            {
+                "name": "2. Pyroar",
+                "value": "__**Affected By:**__\nFighting: 2, Ground: 2, Rock: 2, Water: 2\n__**Base Stats::**__\n**HP:** 86 | **ATK:** 68\n**DEF:** 72 | **SP:** 109\n**SDEF:** 66 | **SPD:** 106",
+                "inline": true
+            },
+            {
+                "name": "3. Ludicolo",
+                "value": "__**Affected By:**__\nFlying: 2, Poison: 2, Bug: 2\n__**Base Stats:**__\n**HP:** 80 | **ATK:** 70\n**DEF:** 70 | **SP:** 90\n**SDEF:** 100 | **SPD:** 70",
+                "inline": true
+            },
+            {
+                "name": "4. Talonflame",
+                "value": "__**Affected By:**__\n**Rock: 4**, Water: 2, Electric: 2\n__**Base Stats:**__\n**HP:** 78 | **ATK:** 81\n**DEF:** 71 | **SP:** 74\n**SDEF:** 69 | **SPD:** 126",
+                "inline": true
+            },
+            {
+                "name": "5. Yveltal",
+                "value": "__**Affected By:**__\nRock: 2, Electric: 2, Ice: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 126 | **ATK:** 131\n**DEF:** 95 | **SP:** 131\n**SDEF:** 98 | **SPD:** 99",
+                "inline": true
+            },
+            {
+                "name": "6. Delphox",
+                "value": "__**Affected By:**__\nGround: 2, Rock: 2, Ghost: 2, Water: 2, Dark: 2\n__**Base Stats:**__\n**HP:** 75 | **ATK:** 69\n**DEF:** 72 | **SP:** 114\n**SDEF:** 100 | **SPD:** 104",
+                "inline": true
+            }
+        ],
+        "footer": {
+            "iconURL": "https://images-ext-1.discordapp.net/external/0vcsUIYadf5T4QdG59Ch_sbSYmKCrM5yIKP_k6m2-t8/%3Fdiscord%3D8/https/www.poke-verse.com/sprites/xyani/delphox-devil.gif",
+            "text": "Devil Delphox"
+        }
+    },
+
+    "ALAIN": {
+        "title": "Guest Alain",
+        "color": "#F5AC78",
+        "fields": [
+            {
+                "name": "1. Charizard",
+                "value": "__**Affected By:**__\n**Rock: 4**, Water: 2, Electric: 2\n__**Base Stats:**__\n**HP:** 78 | **ATK:** 84\n**DEF:** 78 | **SP:** 109\n**SDEF:** 85 | **SPD:** 100",
+                "inline": true
+            },
+            {
+                "name": "2. Bisharp",
+                "value": "__**Affected By:**__\n**Fighting: 4**, Ground: 2, Fire: 2\n__**Base Stats:**__\n**HP:** 65 | **ATK:** 125\n**DEF:** 100 | **SP:** 60\n**SDEF:** 70 | **SPD:** 70",
+                "inline": true
+            },
+            {
+                "name": "3. Unfezant",
+                "value": "__**Affected By:**__Rock: 2, Electric: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 80 | **ATK:** 105\n**DEF:** 80 | **SP:** 65\n**SDEF:** 55 | **SPD:** 93",
+                "inline": true
+            },
+            {
+                "name": "4. Garchomp",
+                "value": "__**Affected By:**__\n**Ice: 4**, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 108 | **ATK:** 130\n**DEF:** 95 | **SP:** 80\n**SDEF:** 100 | **SPD:** 61",
+                "inline": true
+            },
+            {
+                "name": "5. Tyranitar",
+                "value": "__**Affected By:**__\n**Fighting: 4**, Ground: 2, Bug: 2, Steel: 2, Water: 2, Grass: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 100 | **ATK:** 134\n**DEF:** 110 | **SP:** 95\n**SDEF:** 100 | **SPD:** 61",
+                "inline": true
+            },
+            {
+                "name": "6. Dragalge",
+                "value": "__**Affected By:**__\nGround: 2, Psychic: 2, Ice: 2, Dragon: 2\n__**Base Stats:**__\n**HP:** 65 | **ATK:** 75\n**DEF:** 90 | **SP:** 97\n**SDEF:** 124 | **SPD:** 44",
+                "inline": true
+            }
+        ],
+        "footer": {
+            "iconURL": "https://images-ext-2.discordapp.net/external/VOf8U0fmJoHWS7o8ipQSsBfCtB53PQo7Qk9JHEukb3c/%3Fdiscord%3D8/https/www.poke-verse.com/sprites/xyani/dragalge-devil.gif",
+            "text": "Devil Dragalge"
+        }
+    },
+
+    "ESSENTIA": {
+        "title": "Essentia",
+        "color": "#F5AC78",
+        "fields": [
+            {
+                "name": "1. Crobat",
+                "value": "__**Affeceted By:**__\nRock: 2, Electric: 2, Psychic: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 85 | **ATK:** 90\n**DEF:** 80 | **SP:** 70\n**SDEF:** 80 | **SPD:** 130",
+                "inline": true
+            },
+            {
+                "name": "2. Aurorus",
+                "value": "__**Affected By:**__\n**Fighting: 4**, Ground: 2, Rock: 2, Steel: 4, Water: 2, Grass: 2\n__**Base Stats:**__\n**HP:** 123 | **ATK:** 77\n**DEF:** 72 | **SP:** 99\n**SDEF:** 92 | **SPD:** 58",
+                "inline": true
+            },
+            {
+                "name": "3. Goodra",
+                "value": "__**Affected By:**__\nIce: 2, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 90 | **ATK:** 100\n**DEF:** 70 | **SP:** 110\n**SDEF:** 150 | **SPD:** 80",
+                "inline": true
+            },
+            {
+                "name": "4. Klefki",
+                "value": "__**Affected By:**__\nGround: 2, Fire: 2\n__**Base Stats:**__\n**HP:** 57 | **ATK:** 80\n**DEF:** 91 | **SP:** 80\n**SDEF:** 87 | **SP:** 75",
+                "inline": true
+            },
+            {
+                "name": "5. Gogoat",
+                "value": "__**Affected By:**__\nFlying: 2, Poison: 2, Bug: 2, Fire: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 123 | **ATK:** 100\n**DEF:** 64 | **SP:** 97\n**SDEF:** 81 | **SPD:** 68",
+                "inline": true
+            },
+            {
+                "name": "6. Malamar",
+                "value": "__**Affected By:**__\n**Bug: 4**, Fairy: 2\n__**Base Stats:**__\n**HP:** 86 | **ATK:** 92\n**DEF:** 88 | **SP:** 68\n**SDEF:** 75 | **SPD:** 73",
+                "inline": true
+            }
+        ],
+        "footer": {
+            "iconURL": "https://images-ext-2.discordapp.net/external/HNbNigBgpJKm64yma1maOaOmahvREGWMgkjzeLIzkXw/%3Fdiscord%3D8/https/www.poke-verse.com/sprites/xyani/malamar-devil.gif",
+            "text": "Devil Malamar"
+        }
+    }
+}
