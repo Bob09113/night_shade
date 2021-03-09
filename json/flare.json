@@ -11,32 +11,32 @@
         "color": "#F5AC78",
         "fields": [
             {
-                "name": "1. Houndour",
+                "name": "1. Houndour <:dark:818750566028279810><:fire:818750566799769610>",
                 "value": "__**Affected By:**__\nFighting: 2, Ground: 2, Rock: 2, Water: 2\n__**Base Stats:**__\n**HP:** 45 | **ATK:** 60\n**DEF:** 30 | **SP:** 80\n**SDEF:** 50 | **SPD:** 65",
                 "inline": true
             },
             {
-                "name": "2. Tyrunt",
+                "name": "2. Tyrunt <:rock:818750566926647347><:dragon:818750566334332968>",
                 "value": "__**Affected By:**__\nFighting: 2, Ground: 2, Steel: 2, Ice: 2, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 58 | **ATK:** 89\n**DEF:** 77 | **SP:** 45\n**SDEF:** 45 | **SPD:** 48",
                 "inline": true
             },
             {
-                "name": "3. Swalot",
+                "name": "3. Swalot <:poison:818750566847086593>",
                 "value": "__**Affected By:**__\nGround: 2, Psychic: 2\n__**Base Stats:**__\n**HP:** 100 | **ATK:** 73\n**DEF:** 83 | **SP:** 73\n**SDEF:** 83 | **SPD:** 55",
                 "inline": true
             },
             {
-                "name": "4. Noibat",
+                "name": "4. Noibat <:flying:818750566796230666><:dragon:818750566334332968>",
                 "value": "__**Affected By:**__\nRock: 2, **Ice: 4**, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 40 | **ATK:** 30\n**DEF:** 35 | **SP:** 45\n**SDEF:** 40 | **SPD:** 55",
                 "inline": true
             },
             {
-                "name": "5. Spritzee",
+                "name": "5. Spritzee <:fairy:818750565760368661>",
                 "value": "__**Affected By:**__\nPoison: 2, Steel: 2\n__**Base Stats:**__\n**HP:** 78 | **ATK:** 52\n**DEF:** 60 | **SP:** 64\n**SDEF:** 65 | **SPD:** 23",
                 "inline": true
             },
             {
-                "name": "6. Hawlucha",
+                "name": "6. Hawlucha <:fighting:818750567211597824><:flying:818750566796230666>",
                 "value": "__**Affected By:**__\nFlying: 2, Electric: 2, Psychic: 2, Ice: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 78 | **ATK:** 92\n**DEF:** 75 | **SP:** 74\n**SDEF:** 63 | **SPD:** 118",
                 "inline": true
             }
@@ -52,32 +52,32 @@
         "color": "#F5AC78",
         "fields": [
             {
-                "name": "1. Goomy",
+                "name": "1. Goomy <:dragon:818750566334332968>",
                 "value": "__**Affected By:**__\nIce: 2, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 45 | **ATK:** 50\n**DEF:** 35 | **SP:** 55\n**SDEF:** 75 | **SPD:** 40",
                 "inline": true
             },
             {
-                "name": "2. Espurr",
+                "name": "2. Espurr <:psychic:818750566552305684>",
                 "value": "__**Affected By:**__\nBug: 2, Ghost: 2, Dark: 2\n__**Base Stats:**__\n**HP:** 62 | **ATK:** 48\n**DEF:** 54 | **SP:** 63\n**SDEF:** 60 | **SPD:** 68",
                 "inline": true
             },
             {
-                "name": "3. Amoonguss",
+                "name": "3. Amoonguss <:grass:818750566565806110><:poison:818750566847086593>",
                 "value": "__**Affected By:**__\nFlying: 2, Fire: 2, Psychic: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 114 | **ATK:** 85\n**DEF:** 70 | **SP:** 85\n**SDEF:** 80 | **SPD:** 30",
                 "inline": true
             },
             {
-                "name": "4. Liepard",
+                "name": "4. Liepard <:dark:818750566028279810>",
                 "value": "'__**Affected By:**__\nFighting: 2, Bug: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 64 | **ATK:** 88\n**DEF:** 50 | **SP:** 88\n**SDEF:** 50 | **SPD:** 106",
                 "inline": true
             },
             {
-                "name": "5. Drapion",
+                "name": "5. Drapion <:poison:818750566847086593><:dark:818750566028279810>",
                 "value": "__**Affected By:**__\nGround: 2\n__**Base Stats:**__\n**HP:** 70 | **ATK:** 90\n**DEF:** 110 | **SP:** 60\n**SDEF:** 75 | **SPD:** 95",
                 "inline": true
             },
             {
-                "name": "6. Jolteon",
+                "name": "6. Jolteon <:electric:818750566645104681>",
                 "value": "__**Affected By:**__\nGround: 2\n__**Base Stats:**__\n**HP:** 65 | **ATK:** 65\n**DEF:** 65 | **SP:** 110\n**SDEF:** 95 | **SPD:** 130",
                 "inline": true
             }
@@ -93,32 +93,32 @@
         "color": "#F5AC78",
         "fields": [
             {
-                "name": "1. Spinda",
+                "name": "1. Spinda <:normal:818750566787973141>",
                 "value": "__**Affected By:**__\nGhost: 2\n__**Base Stats:**__\n**HP:** 60 | **ATK:** 60\n**DEF:** 60 | **SP:** 60\n**SDEF:** 60 | **SPD:** 60",
                 "inline": true
             },
             {
-                "name": "2. Spewpa",
+                "name": "2. Spewpa <:bug:818750566842105876>",
                 "value": "__**Affected By:**__\nFlying: 2, Rock: 2, Fire: 2\n__**Base Stats:**__\n**HP:** 45 | **ATK:** 22\n**DEF:** 60 | **SP:** 27\n**SDEF:** 30 | **SPD:** 29",
                 "inline": true
             },
             {
-                "name": "3. Vivillon",
+                "name": "3. Vivillon <:bug:818750566842105876><:flying:818750566796230666>                ",
                 "value": "__**Affected By:**__\nFlying: 2, **Rock: 4**, Fire: 2, Electric: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 80 | **ATK:** 52\n**DEF:** 50 | **SP:** 90\n**SDEF:** 50 | **SPD:** 89",
                 "inline": true
             },
             {
-                "name": "4. Helioptile",
+                "name": "4. Helioptile <:electric:818750566645104681><:normal:818750566787973141>",
                 "value": "__**Affected By:**__\nFighting: 2, Ground: 2\n__**Base Stats:**__\n**HP:** 44 | **ATK:** 38\n**DEF:** 33 | **SP:** 61\n**SDEF:** 43 | **SPD:** 70",
                 "inline": true
             },
             {
-                "name": "5. Pangoro",
+                "name": "5. Pangoro <:fighting:818750567211597824><:dark:818750566028279810>",
                 "value": "__**Affected By:**__\nFighting: 2, Flying: 2, **Fairy: 4**\n__**Base Stats:**__\n**HP:** 95 | **ATK:** 124\n**DEF:** 78 | **SP:** 69\n**SDEF:** 71 | **SPD:** 58",
                 "inline": true
             },
             {
-                "name": "6. Greninja",
+                "name": "6. Greninja <:water:818750566699106354><:dark:818750566028279810>",
                 "value": "__**Affected By:**__\nFighting: 2, Bug: 2, Grass: 2, Electric: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 72 | **ATK:** 95\n**DEF:** 67 | **SP:** 103\n**SDEF:** 71 | **SPD:** 122",
                 "inline": true
             }
@@ -134,32 +134,32 @@
         "color": "#F5AC78",
         "fields": [
             {
-                "name": "1. Chandelure",
+                "name": "1. Chandelure <:ghost:818750566699499551><:fire:818750566799769610>",
                 "value": "__**Affected By:**__\nGround: 2, Rock: 2, Ghost: 2, Water: 2, Dark: 2\n__**Base Stats:**__\n**HP:** 60 | **ATK:** 55\n**DEF:** 90 | **SP:** 145\n**SDEF:** 90 | **SPD:** 80",
                 "inline": true
             },
             {
-                "name": "2. Pyroar",
+                "name": "2. Pyroar <:fire:818750566799769610><:normal:818750566787973141>",
                 "value": "__**Affected By:**__\nFighting: 2, Ground: 2, Rock: 2, Water: 2\n__**Base Stats::**__\n**HP:** 86 | **ATK:** 68\n**DEF:** 72 | **SP:** 109\n**SDEF:** 66 | **SPD:** 106",
                 "inline": true
             },
             {
-                "name": "3. Ludicolo",
+                "name": "3. Ludicolo <:water:818750566699106354><:grass:818750566565806110>",
                 "value": "__**Affected By:**__\nFlying: 2, Poison: 2, Bug: 2\n__**Base Stats:**__\n**HP:** 80 | **ATK:** 70\n**DEF:** 70 | **SP:** 90\n**SDEF:** 100 | **SPD:** 70",
                 "inline": true
             },
             {
-                "name": "4. Talonflame",
+                "name": "4. Talonflame <:fire:818750566799769610><:flying:818750566796230666>",
                 "value": "__**Affected By:**__\n**Rock: 4**, Water: 2, Electric: 2\n__**Base Stats:**__\n**HP:** 78 | **ATK:** 81\n**DEF:** 71 | **SP:** 74\n**SDEF:** 69 | **SPD:** 126",
                 "inline": true
             },
             {
-                "name": "5. Yveltal",
+                "name": "5. Yveltal <:dragon:818750566334332968><:flying:818750566796230666>",
                 "value": "__**Affected By:**__\nRock: 2, Electric: 2, Ice: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 126 | **ATK:** 131\n**DEF:** 95 | **SP:** 131\n**SDEF:** 98 | **SPD:** 99",
                 "inline": true
             },
             {
-                "name": "6. Delphox",
+                "name": "6. Delphox <:fire:818750566799769610><:psychic:818750566552305684>",
                 "value": "__**Affected By:**__\nGround: 2, Rock: 2, Ghost: 2, Water: 2, Dark: 2\n__**Base Stats:**__\n**HP:** 75 | **ATK:** 69\n**DEF:** 72 | **SP:** 114\n**SDEF:** 100 | **SPD:** 104",
                 "inline": true
             }
@@ -175,32 +175,32 @@
         "color": "#F5AC78",
         "fields": [
             {
-                "name": "1. Charizard",
+                "name": "1. Charizard <:fire:818750566799769610><:flying:818750566796230666>",
                 "value": "__**Affected By:**__\n**Rock: 4**, Water: 2, Electric: 2\n__**Base Stats:**__\n**HP:** 78 | **ATK:** 84\n**DEF:** 78 | **SP:** 109\n**SDEF:** 85 | **SPD:** 100",
                 "inline": true
             },
             {
-                "name": "2. Bisharp",
+                "name": "2. Bisharp <:dark:818750566028279810><:steel:818750566720864266>",
                 "value": "__**Affected By:**__\n**Fighting: 4**, Ground: 2, Fire: 2\n__**Base Stats:**__\n**HP:** 65 | **ATK:** 125\n**DEF:** 100 | **SP:** 60\n**SDEF:** 70 | **SPD:** 70",
                 "inline": true
             },
             {
-                "name": "3. Unfezant",
+                "name": "3. Unfezant <:normal:818750566787973141><:flying:818750566796230666>",
                 "value": "__**Affected By:**__Rock: 2, Electric: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 80 | **ATK:** 105\n**DEF:** 80 | **SP:** 65\n**SDEF:** 55 | **SPD:** 93",
                 "inline": true
             },
             {
-                "name": "4. Garchomp",
+                "name": "4. Garchomp <:dragon:818750566334332968><:ground:818750567068336148>",
                 "value": "__**Affected By:**__\n**Ice: 4**, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 108 | **ATK:** 130\n**DEF:** 95 | **SP:** 80\n**SDEF:** 100 | **SPD:** 61",
                 "inline": true
             },
             {
-                "name": "5. Tyranitar",
+                "name": "5. Tyranitar <:rock:818750566926647347><:dark:818750566028279810>",
                 "value": "__**Affected By:**__\n**Fighting: 4**, Ground: 2, Bug: 2, Steel: 2, Water: 2, Grass: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 100 | **ATK:** 134\n**DEF:** 110 | **SP:** 95\n**SDEF:** 100 | **SPD:** 61",
                 "inline": true
             },
             {
-                "name": "6. Dragalge",
+                "name": "6. Dragalge <:poison:818750566847086593><:dragon:818750566334332968>",
                 "value": "__**Affected By:**__\nGround: 2, Psychic: 2, Ice: 2, Dragon: 2\n__**Base Stats:**__\n**HP:** 65 | **ATK:** 75\n**DEF:** 90 | **SP:** 97\n**SDEF:** 124 | **SPD:** 44",
                 "inline": true
             }
@@ -216,32 +216,32 @@
         "color": "#F5AC78",
         "fields": [
             {
-                "name": "1. Crobat",
+                "name": "1. Crobat <:poison:818750566847086593><:flying:818750566796230666>",
                 "value": "__**Affeceted By:**__\nRock: 2, Electric: 2, Psychic: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 85 | **ATK:** 90\n**DEF:** 80 | **SP:** 70\n**SDEF:** 80 | **SPD:** 130",
                 "inline": true
             },
             {
-                "name": "2. Aurorus",
+                "name": "2. Aurorus <:rock:818750566926647347><:ice:818750566012157973>",
                 "value": "__**Affected By:**__\n**Fighting: 4**, Ground: 2, Rock: 2, Steel: 4, Water: 2, Grass: 2\n__**Base Stats:**__\n**HP:** 123 | **ATK:** 77\n**DEF:** 72 | **SP:** 99\n**SDEF:** 92 | **SPD:** 58",
                 "inline": true
             },
             {
-                "name": "3. Goodra",
+                "name": "3. Goodra <:dragon:818750566334332968>",
                 "value": "__**Affected By:**__\nIce: 2, Dragon: 2, Fairy: 2\n__**Base Stats:**__\n**HP:** 90 | **ATK:** 100\n**DEF:** 70 | **SP:** 110\n**SDEF:** 150 | **SPD:** 80",
                 "inline": true
             },
             {
-                "name": "4. Klefki",
+                "name": "4. Klefki <:steel:818750566720864266><:fairy:818750565760368661>",
                 "value": "__**Affected By:**__\nGround: 2, Fire: 2\n__**Base Stats:**__\n**HP:** 57 | **ATK:** 80\n**DEF:** 91 | **SP:** 80\n**SDEF:** 87 | **SP:** 75",
                 "inline": true
             },
             {
-                "name": "5. Gogoat",
+                "name": "5. Gogoat <:grass:818750566565806110>",
                 "value": "__**Affected By:**__\nFlying: 2, Poison: 2, Bug: 2, Fire: 2, Ice: 2\n__**Base Stats:**__\n**HP:** 123 | **ATK:** 100\n**DEF:** 64 | **SP:** 97\n**SDEF:** 81 | **SPD:** 68",
                 "inline": true
             },
             {
-                "name": "6. Malamar",
+                "name": "6. Malamar <:dark:818750566028279810><:psychic:818750566552305684>",
                 "value": "__**Affected By:**__\n**Bug: 4**, Fairy: 2\n__**Base Stats:**__\n**HP:** 86 | **ATK:** 92\n**DEF:** 88 | **SP:** 68\n**SDEF:** 75 | **SPD:** 73",
                 "inline": true
             }
