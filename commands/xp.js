@@ -19,7 +19,7 @@ module.exports = {
         let num2 = args[1];
         if(!num2 || isNaN(num2)) return message.channel.send('You must give the desired level yield')
 
-        let xpCalc = parseInt(((1 - (Math.pow(1.15, parseInt(num2)))/(1 - 1.15)) * parseInt(num1)));
+        let xpCalc = parseInt(((1 - (Math.pow(1.15, parseInt(num2)))/(1 - 1.15)) * parseInt(num1)));;
         let gold = numberWithCommas(parseInt(xpCalc * 2.4));
 
         message.channel.send(
